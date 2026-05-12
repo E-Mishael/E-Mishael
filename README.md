@@ -86,7 +86,7 @@ All lab VM traffic is forced through pfSense before reaching the internet — no
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mishael%20Eluehike-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eluehike-mishael-791696259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mishael%20Eluehike-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mishael-eluehike-791696259)
 [![Email](https://img.shields.io/badge/Email-mishael.elu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishael.elu@gmail.com)
 [![Homelab](https://img.shields.io/badge/Portfolio-Cybersecurity%20Homelab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/E-Mishael/cybersecurity-homelab)
 
