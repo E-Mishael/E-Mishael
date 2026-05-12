@@ -9,11 +9,11 @@ I'm a hands-on security professional with production experience deploying and ma
 ## 🎯 What I Do
 
 ```text
-🔐 Security Operations     ██████████████░░░░   Firewall, IDS/IPS, SIEM, VPN
-🌐 Network Architecture    ████████████░░░░░░   Segmentation, pfSense, VLANs
-🔍 Vulnerability Mgmt      ██████████░░░░░░░░   Nessus, Nmap, Metasploit
-🛡️  Endpoint Security       ████████░░░░░░░░░░   EDR, BitLocker, Hardening
-⚙️  Infrastructure          ████████████████░░   Proxmox, VMware, Linux, Windows
+🔐 Security Operations    -  Firewall, IDS/IPS, SIEM, VPN
+🌐 Network Architecture  -   Segmentation, pfSense, VLANs
+🔍 Vulnerability Mgmt     - Nessus, Nmap, Metasploit
+🛡️  Endpoint Security      -   EDR, BitLocker, Hardening
+⚙️  Infrastructure         -   Proxmox, VMware, Linux, Windows
 ```
 
 ---
