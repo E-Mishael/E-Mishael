@@ -2,7 +2,7 @@
 
 ### Cybersecurity Analyst | Calgary, AB 🇨🇦
 
-I'm a hands-on security professional with production experience deploying and managing security infrastructure, and a personal lab that proves it.
+I'm a hands on security professional with production experience deploying and managing security infrastructure, and a personal lab that proves it.
 
 ---
 
