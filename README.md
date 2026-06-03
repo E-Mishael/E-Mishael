@@ -79,8 +79,8 @@ All lab VM traffic is forced through pfSense before reaching the internet — no
 - 🔄 Deploying **Wazuh SIEM** in my homelab for centralized log analysis
 - 📅 Setting up **Kali Linux** for controlled attack simulation and detection practice
 - 📅 Adding **Windows endpoint** with Sysmon for EDR testing
-- 📅 Automating lab tasks with **Ansible**
-- 📝 Publishing formal **penetration test and incident response reports**
+- 📅 Automating cloud provisioning with **terraform**
+  
 
 ---
 
